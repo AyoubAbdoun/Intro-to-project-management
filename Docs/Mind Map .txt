@@ -1,0 +1,170 @@
+QATAR UNIVERSITY SOLAR TRAM PROJECT
+│
+├── Core Idea
+│   ├─ Project Vision
+│   │   ├─ Develop sustainable, autonomous solar-powered trams
+│   │   ├─ Construct trams from recyclable metal containers
+│   │   └─ Promote eco-friendly smart transportation in Qatar University
+│   ├─ Purpose
+│   │   ├─ Replace campus buses for internal transportation
+│   │   ├─ Connect university buildings directly to metro stations
+│   │   └─ Reduce traffic congestion and emissions on campus
+│   └─ Student Interaction
+│       ├─ GPS-based mobile app for calling trams
+│       ├─ Automatic stop detection within 50–100 m radius
+│       └─ Integrated smart system for efficient student pickup
+│
+├── Technology & Design
+│   ├─ Solar Power Integration
+│   │   ├─ Solar panels on tram roofs and charging stations
+│   │   ├─ Battery Energy Storage System (BESS) for low sunlight periods
+│   │   └─ Intelligent power management and grid-hybrid mode
+│   ├─ Recyclable Construction
+│   │   ├─ Repurpose metal containers into lightweight tram bodies
+│   │   ├─ Modular frame for easy scalability and maintenance
+│   │   └─ Incorporate corrosion-resistant materials for durability
+│   ├─ Autonomous Driving System
+│   │   ├─ AI navigation using pre-programmed routes and maps
+│   │   ├─ Sensors: LIDAR, radar, ultrasonic for obstacle detection
+│   │   └─ Remote monitoring and fail-safe manual override controls
+│   └─ Mobile App & GPS
+│       ├─ Real-time tracking and dynamic scheduling
+│       ├─ Adjustable pickup radius (50–120 m) using geofencing
+│       └─ BLE/Wi-Fi fallback and two-step confirmation for safety
+│
+├── Infrastructure & Engineering
+│   ├─ Civil Engineering Works
+│   │   ├─ Plan tram guideway layout and stop locations
+│   │   ├─ Construct pedestrian-safe tram lanes
+│   │   └─ Install shaded, accessible waiting areas for students
+│   ├─ Electrical Engineering
+│   │   ├─ Integrate PV panels with inverters and controllers
+│   │   ├─ Manage electrical load and smart distribution
+│   │   └─ Maintain power systems and charging networks
+│   └─ Testing & Safety
+│       ├─ Conduct braking and obstacle detection validation
+│       ├─ Run passenger safety and emergency evacuation drills
+│       └─ Implement redundancy and manual intervention systems
+│
+├── Innovation & Value Proposition
+│   ├─ Sustainability
+│   │   ├─ 100% renewable, zero-emission energy source
+│   │   ├─ Measurable carbon reduction and green reporting
+│   │   └─ Promotion of circular economy through recycling
+│   ├─ Smart Campus Mobility
+│   │   ├─ Connect buildings to metro seamlessly
+│   │   ├─ Reduce campus traffic and travel time
+│   │   └─ Offer app-based convenience and flexibility
+│   └─ Innovation Symbol
+│       ├─ Establish QU as a pioneer in AI-driven sustainability
+│       ├─ Inspire future smart transport projects in Qatar
+│       └─ Showcase QU’s leadership in renewable innovation
+│
+├── Stakeholders & Partnerships
+│   ├─ Internal Partners
+│   │   ├─ QU Facilities & Transportation Department
+│   │   ├─ University Approvals Board for permits and regulations
+│   │   └─ Students and faculty involved in co-creation and feedback
+│   └─ External Partners
+│       ├─ Ministry of Transport & Communications (MoTC)
+│       ├─ QEERI / Qatar Foundation for R&D and sustainability
+│       ├─ Solar panel and energy suppliers (Siraj Power, Tesla Solar)
+│       ├─ Telecom providers (Ooredoo, Vodafone) for IoT and GPS
+│       ├─ Engineering contractors for civil, mechanical, electrical work
+│       ├─ AI developers and automation system integrators
+│       ├─ Legal and safety consultants for compliance
+│       └─ Funding and insurance partners for long-term viability
+│
+├── Financial Model
+│   ├─ Funding Sources
+│   │   ├─ University and government sustainability budgets
+│   │   ├─ International research and innovation grants
+│   │   └─ Corporate eco-sponsorships and public-private partnerships
+│   ├─ Revenue Streams
+│   │   ├─ Advertising and branding opportunities on trams
+│   │   ├─ Carbon credits and environmental incentive programs
+│   │   └─ Technology licensing to other campuses and cities
+│   └─ Cost Structure
+│       ├─ Manufacturing and solar hardware installation
+│       ├─ AI software, cloud infrastructure, and sensors
+│       └─ Staff training, maintenance, and insurance coverage
+│
+├── Operations & User Experience
+│   ├─ Mobile App Interaction
+│   │   ├─ QU single sign-on for login and authentication
+│   │   ├─ Real-time location and arrival notifications
+│   │   └─ User-friendly interface for pickup and destination selection
+│   ├─ Autonomous Fleet Management
+│   │   ├─ Centralized control and monitoring dashboard
+│   │   ├─ Predictive maintenance via AI telemetry
+│   │   └─ Automated scheduling and demand response
+│   └─ Safety & Accessibility
+│       ├─ Emergency systems: cameras, alarms, and override functions
+│       ├─ Wheelchair-accessible trams and stations
+│       └─ Clear signage and multilingual guidance for users
+│
+├── Sustainability & Community Impact
+│   ├─ Environmental Benefits
+│   │   ├─ Reduced carbon footprint and air pollution
+│   │   ├─ Renewable energy use across entire operation
+│   │   └─ Real-time sustainability dashboards for awareness
+│   ├─ Social Impact
+│   │   ├─ Educational campaigns promoting green technology
+│   │   ├─ Student participation in project R&D and operation
+│   │   └─ Job creation and innovation ecosystem development
+│   └─ Scalability
+│       ├─ Model replication in other universities
+│       ├─ Integration with national transport systems
+│       └─ Long-term adaptability for smart city expansion
+│
+├── Research & Education Integration
+│   ├─ Student Learning
+│   │   ├─ Involvement in AI, mechanical, and electrical capstones
+│   │   ├─ Real-world problem-solving through tram data
+│   │   └─ Access to research datasets for machine learning
+│   ├─ Faculty Collaboration
+│   │   ├─ Interdisciplinary research projects and publications
+│   │   ├─ Inclusion in transportation and sustainability curricula
+│   │   └─ Mentorship and project-based learning opportunities
+│   └─ Innovation Hub
+│       ├─ On-campus testbed for AI-driven transport systems
+│       ├─ Collaboration with regional sustainability centers
+│       └─ Continuous innovation through student-faculty teams
+│
+├── Entrepreneurial Extensions
+│   ├─ Intellectual Property
+│   │   ├─ Patent protection for tram design and control software
+│   │   ├─ Trademarks for project name, brand, and visuals
+│   │   └─ Licensing models for technology deployment
+│   ├─ Public Relations
+│   │   ├─ Showcases at sustainability and tech expos
+│   │   ├─ Press and media coverage for project milestones
+│   │   └─ Partnerships with eco-friendly sponsors for branding
+│   └─ Rapid Prototyping
+│       ├─ Build scale models for design validation
+│       ├─ Conduct motion and energy efficiency tests
+│       └─ Implement iterative design improvements
+│
+├── Driving & Restraining Forces
+│   ├─ Driving Forces
+│   │   ├─ Qatar National Vision 2030 sustainability alignment
+│   │   ├─ High student and faculty interest in green solutions
+│   │   └─ Government backing for renewable innovation
+│   └─ Restraining Forces
+│       ├─ High capital investment requirements
+│       ├─ Delays due to safety certification and regulations
+│       └─ Infrastructure modification and maintenance costs
+│
+└── Final Goal
+    ├─ Implementation Goal
+    │   ├─ Launch a fully solar-powered, autonomous tram network
+    │   ├─ Replace conventional buses for internal transport
+    │   └─ Integrate with metro station for seamless connection
+    ├─ Operational Goal
+    │   ├─ Ensure safe, efficient, and accessible rides
+    │   ├─ Maintain automated GPS-based operations
+    │   └─ Monitor performance through AI data analytics
+    └─ Strategic Vision
+        ├─ Establish QU as the regional leader in smart transport
+        ├─ Serve as a national benchmark for green innovation
+        └─ Inspire similar sustainability projects across Qatar
